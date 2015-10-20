@@ -20,7 +20,7 @@ public class ExemploSeminario {
         System.out.println("Meu primeiro programa");
         System.out.println("Agora Sim!");
         
-        for(int i = 0; i < 15; i++)
+        for(int i = 0; i < 10; i++)
         {
                vet[i] = i;
                System.out.println(vet[i]);
