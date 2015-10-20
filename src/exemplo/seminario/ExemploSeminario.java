@@ -15,8 +15,15 @@ public class ExemploSeminario {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        int vet[] = new int[10];
         System.out.println("Meu primeiro programa");
         System.out.println("Agora Sim!");
+        
+        for(int i = 0; i < 15; i++)
+        {
+               vet[i] = i;
+               System.out.println(vet[i]);
+        }
     }
     
 }
