@@ -16,6 +16,8 @@ public class ExemploSeminario {
      */
     public static void main(String[] args) {
         int vet[] = new int[10];
+        Rapa obj = new Rapa();
+        
         System.out.println("Meu primeiro programa");
         System.out.println("Agora Sim!");
         
