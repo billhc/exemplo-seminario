@@ -16,7 +16,6 @@ public class ExemploSeminario {
      */
     public static void main(String[] args) {
         int vet[] = new int[10];
-        BigInteger num = new BigInteger(ONE);
         
         System.out.println("Meu primeiro programa");
         System.out.println("Agora Sim!");
