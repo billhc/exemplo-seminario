@@ -19,6 +19,7 @@ public class ExemploSeminario {
         
         System.out.println("Meu primeiro programa");
         System.out.println("Agora Sim!");
+        System.out.println("Teste RSS");
         
         for(int i = 0; i < 10; i++)
         {
